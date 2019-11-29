@@ -1,5 +1,5 @@
 title: The Hackery
 description: This website is made for the sole purpose on posting a bunch of random useful information.
-show_downloads: false
+show_downloads: 
 google_analytics:
 theme: jekyll-theme-hacker
