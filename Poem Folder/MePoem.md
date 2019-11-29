@@ -1,12 +1,19 @@
 # Me by LuqGod
 
-I'm never the smartest person in the room. 
+I'm never the smartest person in the room.
+
 Nor do I wanna be.
+
 I kinda feel sad cause today seems to be a gloom.
-I need some space. 
-Cause I got no room. 
+
+I need some space.
+
+Cause I got no room.
+
 I need to think. 
+
 I need to zoom.
+
 Looking down to my feet so I could walk back to my room. 
 
 That time is limited as people would say.
