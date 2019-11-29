@@ -4,7 +4,7 @@ layout: default
 
 # Projects
 <ul>
-  {% for post in site.posts %}
+  {% for projects in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
