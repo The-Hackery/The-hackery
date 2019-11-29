@@ -1,4 +1,4 @@
-#Me by LuqGod
+# Me by LuqGod
 
 I'm never the smartest person in the room 
 Nor do I wanna be
