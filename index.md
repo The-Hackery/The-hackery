@@ -4,5 +4,5 @@ This Website is made for the sole purpose on posting a bunch of random useful in
 
 ## Categories 
 
-| News | Blog | Projects | Hardware | Online Sales | Ideas | [Poems](https://github.com/The-Hackery/The-hackery/blob/master/Poems%20mainpage.md) | [about](https://the-hackery.github.io/The-hackery/about).
+| News | Blog | [Projects](./projects/projects.md) | Hardware | Online Sales | Ideas | [Poems](./Poems/mainpage.md) | [about](./about).
 
