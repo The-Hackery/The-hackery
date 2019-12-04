@@ -11,7 +11,7 @@ layout: default
 
 
 ## Botnets & malware
-- https://www.youtube.com/watch?v=0QT4YJn7oVI - DEFCON 20: Owning Bad Guys {And Mafia} With Javascript Botnets
+-- https://www.youtube.com/watch?v=0QT4YJn7oVI - DEFCON 20: Owning Bad Guys {And Mafia} With Javascript Botnets
 - https://www.youtube.com/watch?v=sgz5dutPF8M - Defcon 21 - How my Botnet Purchased Millions of Dollars in Cars and Defeated the Russian Hackers
 - https://www.youtube.com/watch?v=GAq86wfeC9E - DEF CON 21 - Sean Malone - HiveMind Distributed File Storage Using JavaScript Botnets
 
