@@ -6,7 +6,7 @@ layout: default
  - <a href="https://www.youtube.com/watch?v=ibQGWXfWc7c"> -  DEFCON 17: Search And Seizure Explained -They Took My Laptop!<br>
 
 ## Funny
- -- <a href="https://www.youtube.com/watch?v=vcAHbvTlpKA"> - DEF CON 19 - Matt 'openfly' Joyce - The Art of Trolling<br>
+ -  <a href="https://www.youtube.com/watch?v=vcAHbvTlpKA"> - DEF CON 19 - Matt 'openfly' Joyce - The Art of Trolling<br>
  -- <a href="https://www.youtube.com/watch?v=KSWqx8goqSY"> - DEFCON 17: That Awesome Time I Was Sued For Two Billion Dollars<br>
 
 
